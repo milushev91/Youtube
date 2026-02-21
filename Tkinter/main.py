@@ -54,15 +54,20 @@ def get_weather():
 # -----------------------------
 # GUI Setup
 # -----------------------------
-# Create the main application window
+
+# Create the main application window 
 root = tk.Tk()
-root.title("Chill with Python - Weather App")  # Set the window title
-root.geometry("450x300")                        # Set window size
-root.resizable(False, False)                    # Prevent resizing
+# Set the window title
+root.title("Chill with Python - Weather App")  
+# Set window size
+root.geometry("450x300")    
+# Prevent resizing
+root.resizable(False, False)                    
 
 # -----------------------------
 # Gradient Background using Canvas
 # -----------------------------
+
 # Create a Canvas widget to simulate gradient background
 canvas = Canvas(root, width=450, height=300)
 canvas.pack(fill="both", expand=True)
@@ -78,27 +83,34 @@ for i in range(300):
 # -----------------------------
 # Heading Label
 # -----------------------------
+
 # Display the title of the app inside the window
 heading = tk.Label(
     root, 
     text="Python Weather App", 
     font=("Helvetica", 16, "bold"), 
-    bg="#4fd1c5",  # Matching branded color
+    bg="#4fd1c5",
     fg="white"
 )
-heading.place(relx=0.5, rely=0.1, anchor="center")  # Center it horizontally
+
+# Center it horizontally
+heading.place(relx=0.5, rely=0.1, anchor="center")  
 
 # -----------------------------
 # City Input Box
 # -----------------------------
+
 # Entry widget for the user to type the city name
 city_entry = tk.Entry(root, width=25, font=("Helvetica", 12))
-city_entry.place(relx=0.5, rely=0.25, anchor="center")  # Center input box
-city_entry.insert(0, "Enter city name")  # Placeholder text
+# Center input box
+city_entry.place(relx=0.5, rely=0.25, anchor="center")  
+# Placeholder text
+city_entry.insert(0, "Enter city name")  
 
 # -----------------------------
 # Button to Get Weather
 # -----------------------------
+
 # Button widget that triggers get_weather function when clicked
 get_button = tk.Button(
     root, 
@@ -108,23 +120,27 @@ get_button = tk.Button(
     bg="#4FD1C5",  # Brand color
     fg="white"
 )
-get_button.place(relx=0.5, rely=0.35, anchor="center")  # Center button
+# Center button
+get_button.place(relx=0.5, rely=0.35, anchor="center")  
 
 # -----------------------------
 # Label to Display Results
 # -----------------------------
+
 # Label widget to display weather output (temperature, humidity, description)
 result_label = tk.Label(
     root, 
     text="", 
     font=("Helvetica", 12), 
     justify="left", 
-    bg="#e0e0e0"  # Light background for readability
+    bg="#e0e0e0"
 )
-result_label.place(relx=0.5, rely=0.6, anchor="center")  # Center result label
+# Center result label
+result_label.place(relx=0.5, rely=0.6, anchor="center")  
 
 # -----------------------------
 # Start the GUI loop
 # -----------------------------
+
 # This keeps the window open and responsive
 root.mainloop()
