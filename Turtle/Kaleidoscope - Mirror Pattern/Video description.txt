@@ -1,0 +1,24 @@
+Chill Kaleidoscope Art with Python Turtle – Hypnotic Patterns
+
+Create a mesmerizing **kaleidoscope pattern** using **Python Turtle**! 🎨🐢  
+
+This chill Python coding project is perfect for beginners and anyone who loves hypnotic, relaxing visual art. Follow along as we draw symmetrical polygons with rainbow colors to create a full kaleidoscope effect — all with simple Python code.  
+
+💻 **What you’ll learn in this video:**  
+- How to use Python Turtle to draw symmetrical patterns  
+- Basics of loops, rotation, and geometry in Python  
+- How to create hypnotic, visually appealing generative art  
+- Tips for adding rainbow gradients to your designs  
+
+✨ Perfect for:  
+- Beginner Python programmers  
+- Fans of relaxing coding visuals  
+- Anyone interested in digital generative art  
+
+Don’t forget to **like, subscribe, and hit the bell** for more chill Python coding projects on “Chill with Python”!  
+
+#Python #PythonTurtle #KaleidoscopeArt #ChillCoding #HypnoticPatterns #GenerativeArt #RelaxingPython
+
+Tags: 
+
+Python, Python Turtle, Turtle Graphics, Kaleidoscope Python, Hypnotic Patterns Python, Symmetry Art Python, Chill Coding, Relaxing Python, Python Generative Art, Coding Art, Beginner Python Projects, Digital Art Python, Geometric Patterns Python, Colorful Python Art
