@@ -1,0 +1,32 @@
+Title: Python Turtle Procedural Flower Garden – Rainbow Flowers & Bonsai Trees
+
+Description:
+Relax and watch as Python Turtle creates a mesmerizing procedural flower garden! 🌸🌈 In this coding art video, we draw fractal bonsai trees and rainbow flowers arranged in a circular pattern using Python Turtle graphics. Perfect for chill coding, programming tutorials, and generative art lovers.
+
+Learn how to create procedural art in Python with fractal trees, rainbow flowers, and geometric arrangements. This silent tutorial is ideal for relaxing while enjoying beautiful algorithmic visuals.
+
+What you’ll see in this video:
+
+Three bonsai trees arranged in a triangle layout
+
+Colorful rainbow flowers forming a perfect circle
+
+Fully procedural, random variations for unique visuals every time
+
+Python Turtle graphics code fully explained in comments
+
+Perfect for:
+
+Beginners learning Python Turtle graphics
+
+Generative art enthusiasts
+
+Chill coding and algorithmic art content
+
+Watch more “Chill with Python” coding art videos: [link to your playlist]
+
+hashtags:
+#Python #PythonTurtle #CodingArt #ProceduralArt #FractalTrees #RainbowFlowers #GenerativeArt #ChillCoding #PythonGraphics #TurtleGraphics
+tags: 
+Python, Python Turtle, Turtle graphics, Python coding art, procedural art, generative art, fractal trees, rainbow flowers, circle patterns, chill coding, coding tutorial, relaxing Python art, algorithmic art, programming visuals, Python beginner project
+
