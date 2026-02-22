@@ -1,0 +1,26 @@
+Realistic Fractal Tree with Python Turtle – Chill Coding Art
+
+Watch as we create a stunning **Realistic Fractal Tree** using **Python Turtle**! 🌳🐢  
+
+This chill Python coding project is perfect for beginners and anyone who loves relaxing, visually satisfying generative art. Follow along as we build a natural-looking tree with a thick brown trunk, branches, and green leafy tips — all drawn with code!  
+
+💻 **What you’ll learn in this video:**  
+- How to use Python Turtle to draw fractal trees  
+- How to create realistic trunk and leaf transitions  
+- Basics of recursion and geometry in Python  
+- Tips for making visually appealing generative art  
+
+✨ Perfect for:  
+- Beginner Python programmers  
+- Fans of relaxing coding visuals  
+- Anyone who loves digital art created with code  
+
+Don’t forget to **like, subscribe, and hit the bell** for more relaxing Python coding videos on “Chill with Python”!  
+
+#Python #PythonTurtle #ChillCoding #FractalTree #TreeArt #GenerativeArt #RelaxingPython
+
+  Tags:
+
+  Python, Python Turtle, Turtle Graphics, Fractal Tree Python, Realistic Tree Python, Coding Art, Chill Coding, Relaxing Python, Python Art, Generative Art Python, Recursive Tree, Tree Drawing Python, Visual Python, Beginner Python Projects, Nature Art Python
+
+  
