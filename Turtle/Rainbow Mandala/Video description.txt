@@ -1,0 +1,23 @@
+Chill Rainbow Mandala with Python Turtle
+
+Watch as we create a mesmerizing **Rainbow Mandala** using **Python Turtle**! 🌈🐢  
+
+This chill Python coding project is perfect for beginners and anyone who loves visually satisfying art created with code. Follow along or just relax and enjoy the hypnotic patterns as the mandala forms on the screen.  
+
+💻 **What you’ll learn in this video:**  
+- How to use Python Turtle to draw geometric patterns  
+- How to create smooth rainbow color gradients  
+- Basics of loops and symmetry in Python  
+- Tips for creating visually appealing coding art  
+
+✨ Perfect for:  
+- Beginner Python programmers  
+- Coding relaxation and chill content  
+- Fun art projects with code  
+
+Don’t forget to **like, subscribe, and hit the bell** for more relaxing Python coding videos on “Chill with Python”!  
+
+#Python #PythonTurtle #ChillCoding #Mandala #RainbowArt #CodingArt #RelaxingPython
+
+Tags:
+Python, Python Turtle, Turtle Graphics, Python Turtle Mandala, Rainbow Mandala Python, Coding Art, Chill Coding, Relaxing Python, Python Art, Geometric Patterns Python, Hypnotic Python, Python Tutorial, Beginner Python Projects, Visual Python, Python Drawing
